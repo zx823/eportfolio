@@ -79,7 +79,7 @@ In the course of this assignment, we delved into the operations of UTM Digital, 
 Becoming a successful system developer involves adopting a well-rounded approach, balancing technical proficiency with interpersonal skills. I aim to enhance my programming abilities, gain a deep understanding of system architecture, and keep pace with evolving technologies. Alongside, I recognize the value of cultivating soft skills such as effective communication and collaboration. Actively participating in internships and specialized programs will provide practical insights, allowing me to apply theoretical knowledge to real-world situations. Success demands meticulous planning – creating a timeline, establishing achievable goals, and consistently assessing progress. This proactive strategy is my key to staying adaptable to emerging trends, ultimately shaping me into a highly skilled and sought-after system developer.
 
 - ASSEMBLE PC LAB
-<img src="./zxximage/pc%20assemble.jpg" alt="Image Alt Text" width="300"/>
+<img src="./zxximage/photo_2024-01-18_00-35-26.jpg" alt="Image Alt Text" width="300"/>
 
 #### Reflection
 During this lab, we got hands-on with building a PC, diving deep into the intricacies of its components. This practical experience not only honed our skills in PC assembly but also provided valuable insights into the core elements powering these tech wonders. The immersive exploration expanded our understanding and gave us a practical grasp of how different components work together. As we tackled the complexities of PC assembly, each component's significance became clear, leading to a deeper appreciation and comprehension of the technology driving modern computing.
