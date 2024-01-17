@@ -64,7 +64,7 @@ This assignment led us into the realm of ICT jobs, where our focus centered on c
 
 - [ASSIGNMENT 3 : VIDEO ON VISIT TO UTMDIGITAL AND THE ATTENDED VIRTUAL TALK](https://github.com/zx823/eportfolio/blob/main/TIS%20ASSIGN%203%20%20GRP%204%20(1).pdf)
 
-<img src="./zxximage/UTMDIGITAL.jpg" alt="Image Alt Text" width="300"/>
+[![Demo Video](https://img.youtube.com/vi/-iLgez9k7UU/0.jpg)](https://www.youtube.com/watch?v=-iLgez9k7UU)
 
 #### Reflection 3
 
