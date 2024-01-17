@@ -11,11 +11,11 @@ A uni student in Software Engineering
 #### Here are some pictures about me
 <div style="display: flex; justify-content: space-between;">
   <img src="./zxown/photo_2024-01-18_00-17-46.jpg" alt="Image 1" width="20%">
-  <img src="./zxown/photo_2024-01-18_00-17-47.jpg.jpg" alt="Image 2" width="20%">
+  <img src="./zxown/photo_2024-01-18_00-17-47.jpg" alt="Image 2" width="20%">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="./zxown/photo_2024-01-18_00-17-49.jpg.jpg" alt="Image 1" width="20%">
-  <img src="./zxown/photo_2024-01-18_00-18-06.jpg.jpg" alt="Image 2" width="20%">
+  <img src="./zxown/photo_2024-01-18_00-17-49.jpg" alt="Image 1" width="20%">
+  <img src="./zxown/photo_2024-01-18_00-18-06.jpg" alt="Image 2" width="20%">
 </div>
 
 * 🌍  I'm based in JOHOR BAHRU,JOHOR
