@@ -83,3 +83,22 @@ Becoming a successful system developer involves adopting a well-rounded approach
 
 #### Reflection
 During this lab, we got hands-on with building a PC, diving deep into the intricacies of its components. This practical experience not only honed our skills in PC assembly but also provided valuable insights into the core elements powering these tech wonders. The immersive exploration expanded our understanding and gave us a practical grasp of how different components work together. As we tackled the complexities of PC assembly, each component's significance became clear, leading to a deeper appreciation and comprehension of the technology driving modern computing.
+- [ASSIGNMENT5 :DESIGN THINKING](https://github.com/zx823/eportfolio/blob/main/TIS%20FINAL%20PROJECT.pdf)
+<img src="./zxximage/屏幕截图%202024-01-27%20222546.png" alt="Image Alt Text" width="300"/>
+#### Reflection 5
+
+As a year 1 university student, my academic journey is
+fueled by a desire to deeply engage with industries
+aligning with my future aspirations. The design thinking
+project has been transformative, offering insights into
+market demands and helping shape a clear career aim.
+This experience has provided valuable clarity about the
+market landscape, fueling a commitment to continuous
+improvement. I aim to thrive in the competitive corporate
+world by exposing myself to diverse environments,
+broadening my horizons, and actively developing both
+hard and soft skills.
+In summary, the design thinking project has been
+instrumental in crystallizing my professional direction, and
+I'm dedicated to a path of continuous growth to excel in
+my envisioned industry.
